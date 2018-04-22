@@ -1,1 +1,11 @@
 this is an example file to be pulled into git.
+To push the code type command
+git push origin <branch_name>
+let suppose branch is SHA0801
+then
+git push origin SHA0801
+
+before pushing it do:
+git add .
+and then
+git commit -m "message"
